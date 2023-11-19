@@ -1,4 +1,4 @@
-## Olá! Sou Edivalter
+## Hi! My name is Edivalter
 - Hoje trabalho com Front-end
 
 <div style="display: inline_block"><br>
