@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Edivalter!
 - Em processo de transição de carreira, me identifico muito com a área de tecnologia, atualmente estou me qualificando para ser um Desenvolvedor Full Stack completo.
 - Cursos em andamento:
-  - Desevonvedor Full Stack - Digital College;
+  - Desenvolvedor Full Stack - Digital College;
   - Potência Tech: Banco de dados - Powered by Ifood/Descomplica;
   - Formação Computação em Nuvem - Escola da Nuvem.
 ##
