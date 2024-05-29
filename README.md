@@ -2,8 +2,7 @@
 - Em processo de transição de carreira, me identifico muito com a área de tecnologia, atualmente estou me qualificando para ser um Desenvolvedor Full Stack completo.
 - Cursos em andamento:
   - Desenvolvedor Full Stack - Digital College;
-  - Potência Tech: Banco de dados - Powered by Ifood/Descomplica;
-  - Formação Computação em Nuvem - Escola da Nuvem.
+  - Bootcamp Santander 2024 - Fundamentos de IA para Devs
 ##
 <div style="display: inline_block"><br>
   
